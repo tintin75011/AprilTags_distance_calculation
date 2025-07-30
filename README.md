@@ -35,7 +35,7 @@ poetry install
 ```bash
 python findingCoefCamera.py
 ```
-5. Mettez à jour ces résultats coeficients dans les lignes 6-9 du programme main.py / Update these coefficient results in lines 6-9 of the main.py program
+5. Mettez à jour ces coefficients dans les lignes 6-9 du programme main.py / Update these coefficient results in lines 6-9 of the main.py program
 
 6. Lancez le script principal / Run the main script:
 ```bash
