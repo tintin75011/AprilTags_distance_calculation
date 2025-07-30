@@ -31,10 +31,15 @@ venv\Scripts\activate
 pip install poetry
 poetry install
 ```
-
-4. Lancez le script principal / Run the main script:
+4. Trouvez la calibration de votre caméra grâce au script suivant /Find your camera calibration using the following script:
 ```bash
-poetry run python main.py
+python findingCoefCamera.py
+```
+5. Mettez à jour ces résultats coeficients dans les lignes 6-9 du programme main.py / Update these coefficient results in lines 6-9 of the main.py program
+
+6. Lancez le script principal / Run the main script:
+```bash
+python run python main.py
 ```
 
 ## 📷 Fonctionnalités / Features
