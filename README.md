@@ -17,7 +17,7 @@ Real-time AprilTags detection with pose estimation via webcam. The program uses 
 
 ```bash
 git clone https://github.com/tintin75011/AprilTags_distance_calculation.git
-cd apriltag-vision
+cd AprilTags_distance_calculation
 ```
 2. Créez un environnement virtuel et activez-le / Create a virtual environment and activate it:
  ```bash
