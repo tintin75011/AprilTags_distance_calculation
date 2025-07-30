@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "apriltag-vision"
+version = "0.1.0"
+description = "Détection d'AprilTag avec OpenCV et calcul de pose/distance"
+authors = ["Ton Nom <ton.email@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+opencv-python = "^4.9.0"
+numpy = "^1.26.0"
+pupil-apriltags = "^1.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
