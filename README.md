@@ -39,7 +39,7 @@ python findingCoefCamera.py
 
 6. Lancez le script principal / Run the main script:
 ```bash
-python run python main.py
+python main.py
 ```
 
 ## 📷 Fonctionnalités / Features
